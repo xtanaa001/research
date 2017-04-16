@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{project.html}, nofooter  
+== Research Projects
+
+== Energy Refueling Network for Electric Vehicles
+An electric vehicle energy refueling network is a network of publicly accessible charging stations and swapping stations that provides energy refueling services for electric vehicles. Charging stations consist of i) plug-in charging stations for vehicles, and ii) battery charging stations for standalone batteries. Batteries can be charged in the standalone mode since some of the electric vehicles have swappable batteries. 
+
+Compared to the conventional charging service, the battery-swapping mode decouples the ownership of batteries and electric vehicles, which are known to be with different life cycles. Therefore, the battery-swapping mode has a better potential of taking advantage of future improvements in battery technology by regular battery replacement and recycle. Meanwhile, this ownership decoupling can significantly lower down the upfront cost of purchasing an electric vehicle, thus will help increase the adoption rates.
+
+The battery-swapping mode can be implemented in two different ways. One way is to provide swapping service for electric vehicles and charging services for unloaded batteries at the same location. For this type of implementation, we refer it as battery swapping and charging station (BSCS). Another way is to provide distributed swapping services at different locations, and then deliver the unloaded batteries to a centralized charging station. For this type of implementation, we refer it as centralized battery charging station (BCS) + distributed battery swapping stations (BSSs).  Both implementation methods have their own pros and cons (please refer to the following papers for details). 
+
+In this project, our target is to:
+- evaluate the performance of a BSCS based on realistic queueing network modeling techniques; 
+- understand the optimal infrastructure planning for an BSCS in order to guarantee a certain level of quality of service;  
+- optimize the charging process of a BSCS and/or a BCS such that the total operational cost (e.g., energy procurement cost and battery degredaton cost, etc) is minimized.
+
+~~~
+{Sample Publications}:
+. *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of a Battery Swapping and Charging Station for Electric Vehicles", submitted for journal publication.
+. *X. Tan*, B. Sun and D.H.K Tsang, "[documents/queueing_bscs_sgc.pdf Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping]", in Proc. of IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014.
+. B. Sun, *X. Tan* and D.H.K Tsang, "[documents/operation_bscs_sgc.pdf Optimal Charging Operation of Battery Swapping Stations with QoS Guarantee]", in Proc. of IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014.
+~~~
+
+== Battery Energy Storage Systems
+In this project, a comprehensive system modeling, extensive performance analysis and instructive optimal operational policies for battery energy storage system (BESS) in the dynamic energy market will be investigated. Fundamental issues of limited  lifetime,  ramp  and  capacity  constraints  of  BESS,  economic reward optimality,  implementation complexity, system  stability,  market  equilibrium,  renewable  energy  integration  and  demand  response  scheme  are considered. Modeling, analysis and optimization are performed on various aspects including the single BESS under deterministic price  and  stochastic  real-time  price, interaction  (e.g., cooperation  and  competition) between  multiple  BESS, impact of BESS to the dynamic energy market and networked BESS operation with optimal social warfare.
+
+~~~
+{Sample Publications}:
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", to appear in IEEE Transactions on Parallel and Distributed Systems, 2015.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", to appear in IEEE Transactions on Smart Grid, 2015.
+. *X. Tan*, Y. Wu and D.H.K Tsang, "[documents/trading_bess_sgc.pdf Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing]", in Proc. of IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014.
+. *X. Tan*, Y. Wu and D.H.K Tsang, "[documents/lifetime_analysis_bess_sgc.pdf Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing]", in Proc. of IEEE 4th International Conference on Smart Grid Communications (IEEE SmartGridComm 2013), Oct. 2013.
+~~~

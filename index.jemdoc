@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, nofooter 
+== Overview of Current Research
+
+My current research is particularly motivated by two important emerging components of smart grids, i.e., *battery energy storage* and *electric vehicles*. As a promising game-changer for future power and energy systems, battery energy storage is expected to play a key role in providing more flexibility for balancing the grid, buffering intermittent renewable energy, and improving the stability of local distribution networks. Driven by the growing demand for cutting down greenhouse gas emissions in transportation sector, the past decade has witnessed an explosive growth in development and deployment of electric vehicles.  When batteries are moving around enabled by electric vehicles, two orginally separated large networks, i.e., the power network and the transportation network, are becoming increasingly correlated in their design and control, which yields many new challenges and requires a substantial research.
+
+
+~~~
+{Below you can find some of my recent publications:}
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/pareto_bess_tpds.pdf Pareto Optimal Operation of Distributed Battery Energy Storage Systems for Energy Arbitrage under Dynamic Pricing]", to appear in IEEE Transactions on Parallel and Distributed Systems, 2015.
+. *X. Tan*, Y. Wu and D.H.K. Tsang, "[documents/ssp_bess_tsg.pdf A Stochastic Shortest Path Framework for Quantifying the Value and Lifetime of Battery Energy Storage under Dynamic Pricing]", to appear in IEEE Transactions on Smart Grid, 2015.
+. *X. Tan*, B. Sun and D.H.K Tsang, "[documents/queueing_bscs_sgc.pdf Queueing Network Models for Electric Vehicle Charging Station with Battery Swapping]", in Proc. of IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014.
+. *X. Tan*, Y. Wu and D.H.K Tsang, "[documents/trading_bess_sgc.pdf Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing]", in Proc. of IEEE 5th International Conference on Smart Grid Communications (IEEE SmartGridComm 2014), Nov. 2014.
+. *X. Tan*, Y. Wu and D.H.K Tsang, "[documents/lifetime_analysis_bess_sgc.pdf Economic Analysis of Lifetime-Constrained Battery Storage under Dynamic Pricing]", in Proc. of IEEE 4th International Conference on Smart Grid Communications (IEEE SmartGridComm 2013), Oct. 2013.
+~~~
+
+~~~
+{Below you can catch a glimpse of what I am currently working on:}
+. *X. Tan*, B. Sun, Y. Wu and D.H.K. Tsang, "Asymptotic Performance Evaluation of a Battery Swapping and Charging Station for Electric Vehicles", submitted for journal publication, 2016.
+. *X. Tan*, G. Qu, B. Sun, N. Li, and D.H.K. Tsang, "Optimal Charging Scheduling of Centralized Battery Charging Stations for Electric Vehicles", to be submitted, 2016.
+. *X. Tan*, et al, "Optimal Battery Delivery and Charging for Electric Vehicle Refueling Based on Battery Swapping", working paper, 2016.
+. *X. Tan*, et al, "Distributed Stochastic ADMM for Electric Vechile Charging with Uncertain Deadlines", working paper, 2016.
+~~~
